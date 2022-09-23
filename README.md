@@ -11,6 +11,21 @@
   <a href="https://www.facebook.com/atif.qamar.902/">
      <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
- 
 </div>
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650" height="300"/>
+</div>
+<br>
+<br>
+### :man_technologist: &nbsp;About Me :
+
+<b> I am a Full Stack Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. </b>
+
+- :office_worker: I’m working as a <b> Software Development Engineer - II </b> at <b>Ezetap by Razorpay</b>.
+- 🌱 Hunger for learning new skill.
+- 🌱 Exploring Technical Content Writing.
+- 👯 I’m looking to collaborate on android , flutter and IOS.
+- :muscle: Do workout
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Atif_Qamar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atif-qamar-3321aa85/)
 
