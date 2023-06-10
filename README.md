@@ -22,7 +22,7 @@
 
 <b> I am a Full Stack Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. </b>
 
-- :office_worker: I’m working as a <b> Software Development Engineer - II </b> at <b>Ezetap by Razorpay</b>.
+- :office_worker: I’m working as a <b> Lead Product Engineer </b> at <b>Ezetap by Razorpay</b>.
 - :metal: Hunger for learning new skill.
 - 🌱 Exploring Technical Content Writing.
 - 👯 I’m looking to collaborate on android , flutter and IOS.
