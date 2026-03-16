@@ -18,7 +18,7 @@
 </div>
 <br>
 <br>
-### :man_technologist: &nbsp;About Me :
+:man_technologist: &nbsp;About Me :
 
 <b> I am a Full Stack Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. </b>
 
